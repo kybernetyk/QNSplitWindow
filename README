@@ -1,0 +1,6 @@
+A split view window (like finder, mail, itunes) with a sidebar
+for OS X. The UI part is fairly general and needs only to be fed
+with items to show in the left view.
+
+License: BSD
+(c) Leon Szpilewski, 2009
